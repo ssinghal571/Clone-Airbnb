@@ -1,0 +1,16 @@
+.live__card {
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.live__card > img {
+  object-fit: fill;
+  min-width: 250px;
+  min-height: 200px;
+  max-width: 100%;
+  height: auto;
+}
+.title > h3 {
+  margin-left: 15px;
+}

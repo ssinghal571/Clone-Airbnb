@@ -1,0 +1,12 @@
+.explore {
+  display: flex;
+  padding: 30px;
+}
+.heading {
+  margin-left: 40px;
+  margin-bottom: -23px;
+  color: inherit !important;
+  font-size: 2em !important;
+  font-weight: bold !important;
+  line-height: inherit !important;
+}
